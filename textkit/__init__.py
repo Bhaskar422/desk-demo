@@ -1,3 +1,3 @@
-from .core import title_case, word_count
+from .core import char_count, title_case, word_count
 
-__all__ = ["title_case", "word_count"]
+__all__ = ["char_count", "title_case", "word_count"]
